@@ -2,7 +2,7 @@
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h2 align=center>👋 I'm glad to have you here!!</h2>
-
+---
 <!--ABOUT ME CODE-->
 
 - 👋 Hi, I am **Arati Maurya**, currently pursuing my Master's from California State University, Fullerton in *Computer Science*. <br>
@@ -25,13 +25,13 @@
 [![arati's github activity graph](https://activity-graph.herokuapp.com/graph?username=aratimauryacsuf&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
 -->
 
----
+
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/aratimauryacsuf/count.svg?align=center)
 
-----
+---
 
 <!-- commented for now   ![My github stats](https://github-readme-stats.vercel.app/api?username=aratimauryacsuf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
 
