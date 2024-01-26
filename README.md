@@ -11,7 +11,7 @@
 - 📫 Reach me at aratimaurya2919@gmail.com <br>
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-aratimaurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aratimaurya/)](https://www.linkedin.com/in/aratimaurya/)
+[![Linkedin Badge](https://img.shields.io/badge/-arati-maurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arati-maurya/)](https://www.linkedin.com/in/arati-maurya/)
 
 [![Gmail Badge](https://img.shields.io/badge/-aratimaurya2919@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aratimaurya2919@gmail.com)](mailto:aratimaurya2919@gmail.com)
 
