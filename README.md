@@ -21,6 +21,11 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aratimauryacsuf&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 ---
+<!-- ACTIVITY GRAPH TRACKER -->
+[![arati's github activity graph](https://activity-graph.herokuapp.com/graph?username=aratimauryacsuf&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+
+
+---
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
