@@ -17,6 +17,11 @@
  
 ---
 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aratimauryacsuf&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+         
+---
+
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/aratimauryacsuf/count.svg?align=center)
