@@ -7,5 +7,5 @@
 
 - 👋 Hi, I am **Arati Maurya**, currently pursuing my Master's from California State University, Fullerton in *Computer Science*. <br>
 - 👀 I have 8 years of rich experience in application development. <br>
-- 🌱 I am looking for Software Developer Engineer, Backend Developer or Full Stack Developer roles.<br>
+- 🌱 I am looking for Software Developer, Backend Developer or Full Stack Developer roles.<br>
 - 📫 Reach me at aratimaurya2919@gmail.com <br>
