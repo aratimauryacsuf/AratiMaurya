@@ -10,9 +10,9 @@
 - 🌱 I am looking for Software Developer, Backend Developer or Full Stack Developer roles.<br>
 - 📫 Reach me at aratimaurya2919@gmail.com <br>
 
+
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-aratimaurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arati-maurya/)](https://www.linkedin.com/in/arati-maurya/)
-
 [![Gmail Badge](https://img.shields.io/badge/-aratimaurya2919@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aratimaurya2919@gmail.com)](mailto:aratimaurya2919@gmail.com)
 
 ---
