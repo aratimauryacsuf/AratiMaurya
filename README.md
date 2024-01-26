@@ -2,13 +2,20 @@
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h2 align=center>👋 I'm glad to have you here!!</h2>
----
+
 <!--ABOUT ME CODE-->
 
 - 👋 Hi, I am **Arati Maurya**, currently pursuing my Master's from California State University, Fullerton in *Computer Science*. <br>
 - 👀 I have 8 years of rich experience in application development. <br>
 - 🌱 I am looking for Software Developer, Backend Developer or Full Stack Developer roles.<br>
 - 📫 Reach me at aratimaurya2919@gmail.com <br>
+
+<!-- SOCAIL MEDIA HANDLES -->
+[![Linkedin Badge](https://img.shields.io/badge/-aratimaurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aratimaurya/)](https://www.linkedin.com/in/aratimaurya/)
+
+[![Gmail Badge](https://img.shields.io/badge/-aratimaurya2919@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aratimaurya2919@gmail.com)](mailto:aratimaurya2919@gmail.com)
+
+---
 
 ---
 
