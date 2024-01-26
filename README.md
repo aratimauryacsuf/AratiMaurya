@@ -9,3 +9,9 @@
 - 👀 I have 8 years of rich experience in application development. <br>
 - 🌱 I am looking for Software Developer, Backend Developer or Full Stack Developer roles.<br>
 - 📫 Reach me at aratimaurya2919@gmail.com <br>
+
+
+
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/aratimauryacsuf/count.svg?align=center)
