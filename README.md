@@ -10,7 +10,12 @@
 - 🌱 I am looking for Software Developer, Backend Developer or Full Stack Developer roles.<br>
 - 📫 Reach me at aratimaurya2919@gmail.com <br>
 
+---
 
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratimauryacsuf&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+---
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
