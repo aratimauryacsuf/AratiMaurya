@@ -21,9 +21,9 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aratimauryacsuf&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 ---
-<!-- ACTIVITY GRAPH TRACKER -->
+<!-- ACTIVITY GRAPH TRACKER 
 [![arati's github activity graph](https://activity-graph.herokuapp.com/graph?username=aratimauryacsuf&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
-
+-->
 
 ---
 
@@ -32,9 +32,10 @@
 ![visitors](https://profile-counter.glitch.me/aratimauryacsuf/count.svg?align=center)
 
 ----
-![My github stats](https://github-readme-stats.vercel.app/api?username=aratimauryacsuf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
-<center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
 
+<-- commented for now   ![My github stats](https://github-readme-stats.vercel.app/api?username=aratimauryacsuf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
+
+-->
 
 
 
