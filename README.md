@@ -1,5 +1,3 @@
-# AratiMaurya
-
 <!-- README FILE CODE -->
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
